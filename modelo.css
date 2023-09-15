@@ -1,2 +1,29 @@
-/*##################### PARTE 01 - H1 ao H6_Título e Subtítulos: ########################*/
-/*Sendo que o selector, representa qualquer tag HTML. Dessa forma, ao invés de formatar todo tí
+/*##################################### PARTE 01 - H1 ao H6_Título e Subtítulos: #####################################*/
+/*Sendo que o selector, representa qualquer tag HTML. Dessa forma, ao invés    de
+formatar todo título H1 individualmente, usamos o seguinte CSS, para     formatar
+todos de uma vez só.
+Assim, toda tag h1 que for utilizada no HTML, será formatada com a fonte Arial:*/
+
+h1 {
+font-family: Arial, sans-serif 
+}
+   
+h2 {
+font-family: Jazz LET, fantasy ;
+}
+
+h3 {
+font-family: ;
+}
+
+h4 {
+font-family: Trattatello, fantasy;
+}
+
+h5 {
+font-family: ;
+}
+
+h6 {
+font-family: Arial Narrow, sans-serif;
+}
